@@ -28,7 +28,6 @@ dist/
 Thumbs.db
 
 # Data and model artifacts
-data/
 models/
 
 # Environment variables
